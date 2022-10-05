@@ -1,4 +1,4 @@
-see https://docs.github.com/en/actions/creating-actions/creating-a-javascript-action
+@see https://docs.github.com/en/actions/creating-actions/creating-a-javascript-action
 
 
 # Hello world javascript action
